@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Patrícia Cupa",
+        "cpf": "31800000095",
+        "email": "patricia.cupa@gmail.com",
+        "whatsapp": "19991111112",
+        "address": {
+            "postalcode": "13010001",
+            "street": "Avenida Doutor Moraes Salles",
+            "number": "1000",
+            "details": "Apto 92",
+            "district": "Centro",
+            "city_state": "Campinas/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "incorrect_document": {
+        "name": "Eric Nascimento",
+        "cpf": "x18@8022ABC",
+        "email": "eric.nascimento@gmail.com",
+        "whatsapp": "19991111862",
+        "address": {
+            "postalcode": "13010001",
+            "street": "Avenida Doutor Moraes Salles",
+            "number": "1000",
+            "details": "Apto 92",
+            "district": "Centro",
+            "city_state": "Campinas/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Patrícia Cupa",
+        "cpf": "31800000095",
+        "email": "patricia.cupa.com.br",
+        "whatsapp": "19991111112",
+        "address": {
+            "postalcode": "13010001",
+            "street": "Avenida Doutor Moraes Salles",
+            "number": "1000",
+            "details": "Apto 92",
+            "district": "Centro",
+            "city_state": "Campinas/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
